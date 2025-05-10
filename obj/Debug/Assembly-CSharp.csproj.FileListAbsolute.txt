@@ -1,0 +1,3 @@
+C:\Users\Dharaneesh\new AR\obj\Debug\Assembly-CSharp.csproj.AssemblyReference.cache
+C:\Users\Dharaneesh\new AR\obj\Debug\Assembly-CSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dharaneesh\new AR\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
